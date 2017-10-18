@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: a0d82c101f1bb1e4cbc439d467012182
+timeCreated: 1494348153
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: BlueLights
+    100004: BlueLights.001
+    100006: BlueLights.002
+    100008: BlueLights.003
+    100010: BlueLights.004
+    100012: BlueLights.005
+    100014: BlueLights.006
+    100016: BlueLights.007
+    100018: BlueLights.008
+    100020: BlueLights.009
+    100022: BlueLights.010
+    100024: BlueLights.011
+    100026: BlueLights.012
+    100028: BlueLights.013
+    100030: BlueLights.014
+    100032: Books.012
+    100034: Books.012_MeshPart0
+    100036: Books.012_MeshPart1
+    100038: BookShelfParent
+    100040: Circle.001
+    100042: Floor
+    100044: GlassTube
+    100046: GlassTubeLight.013
+    100048: Point
+    100050: Point.001
+    100052: Point.002
+    100054: Point.003
+    100056: Roof
+    100058: Roof.001
+    100060: SideLights
+    100062: SideLights_MeshPart0
+    100064: SideLights_MeshPart1
+    100066: //RootNode
+    100068: Walls
+    400000: BezierCurve
+    400002: BlueLights
+    400004: BlueLights.001
+    400006: BlueLights.002
+    400008: BlueLights.003
+    400010: BlueLights.004
+    400012: BlueLights.005
+    400014: BlueLights.006
+    400016: BlueLights.007
+    400018: BlueLights.008
+    400020: BlueLights.009
+    400022: BlueLights.010
+    400024: BlueLights.011
+    400026: BlueLights.012
+    400028: BlueLights.013
+    400030: BlueLights.014
+    400032: Books.012
+    400034: Books.012_MeshPart0
+    400036: Books.012_MeshPart1
+    400038: BookShelfParent
+    400040: Circle.001
+    400042: Floor
+    400044: GlassTube
+    400046: GlassTubeLight.013
+    400048: Point
+    400050: Point.001
+    400052: Point.002
+    400054: Point.003
+    400056: Roof
+    400058: Roof.001
+    400060: SideLights
+    400062: SideLights_MeshPart0
+    400064: SideLights_MeshPart1
+    400066: //RootNode
+    400068: Walls
+    2300000: BezierCurve
+    2300002: BlueLights
+    2300004: BlueLights.001
+    2300006: BlueLights.002
+    2300008: BlueLights.003
+    2300010: BlueLights.004
+    2300012: BlueLights.005
+    2300014: BlueLights.006
+    2300016: BlueLights.007
+    2300018: BlueLights.008
+    2300020: BlueLights.009
+    2300022: BlueLights.010
+    2300024: BlueLights.011
+    2300026: BlueLights.012
+    2300028: BlueLights.013
+    2300030: BlueLights.014
+    2300032: Books.012_MeshPart0
+    2300034: Books.012_MeshPart1
+    2300036: Circle.001
+    2300038: Floor
+    2300040: GlassTube
+    2300042: GlassTubeLight.013
+    2300044: Roof
+    2300046: Roof.001
+    2300048: SideLights_MeshPart0
+    2300050: SideLights_MeshPart1
+    2300052: Walls
+    3300000: BezierCurve
+    3300002: BlueLights
+    3300004: BlueLights.001
+    3300006: BlueLights.002
+    3300008: BlueLights.003
+    3300010: BlueLights.004
+    3300012: BlueLights.005
+    3300014: BlueLights.006
+    3300016: BlueLights.007
+    3300018: BlueLights.008
+    3300020: BlueLights.009
+    3300022: BlueLights.010
+    3300024: BlueLights.011
+    3300026: BlueLights.012
+    3300028: BlueLights.013
+    3300030: BlueLights.014
+    3300032: Books.012_MeshPart0
+    3300034: Books.012_MeshPart1
+    3300036: Circle.001
+    3300038: Floor
+    3300040: GlassTube
+    3300042: GlassTubeLight.013
+    3300044: Roof
+    3300046: Roof.001
+    3300048: SideLights_MeshPart0
+    3300050: SideLights_MeshPart1
+    3300052: Walls
+    4300000: SideLights_MeshPart0
+    4300002: SideLights_MeshPart1
+    4300004: Roof.001
+    4300006: BezierCurve
+    4300008: BlueLights.014
+    4300010: BlueLights.013
+    4300012: BlueLights.012
+    4300014: BlueLights.011
+    4300016: BlueLights.010
+    4300018: BlueLights.009
+    4300020: BlueLights.008
+    4300022: BlueLights.007
+    4300024: BlueLights.006
+    4300026: BlueLights.005
+    4300028: BlueLights.004
+    4300030: BlueLights.003
+    4300032: BlueLights.002
+    4300034: BlueLights.001
+    4300036: BlueLights
+    4300038: Books.012_MeshPart0
+    4300040: Books.012_MeshPart1
+    4300042: Walls
+    4300044: Circle.001
+    4300046: GlassTubeLight.013
+    4300048: GlassTube
+    4300050: Roof
+    4300052: Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
